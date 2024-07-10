@@ -35,7 +35,6 @@ body {
 .banner-content h1{
     margin-top: 30px;
     font-size: 48px ;
-    font-weight: ;
 }
 
 .banner-content p{
@@ -57,5 +56,59 @@ body {
     font-size: 22px;
 }
 
+/* why web development part start here  */
 
+.secondpart{
+    height: 1395px;
+    margin-top: 50px;
+    border: 2px solid red;
+
+}
+
+.web{
+    height: 1000px;
+    width: 1400px;
+    border: 2px solid red;
+    margin-top: 70px;
+    margin-left: 50px; 
+     
+    
+}
+.firstsec{
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+}
+
+.firstsec p{
+    padding: 2%;
+    margin-bottom: 5%;
+}
+
+.secondsec{
+    display: flex;
+}
+
+.change21{
+    height: 250px;
+    width: 50%;
+    border: 2px solid red;
+    padding-left: 48px;
+}
+.change21 h2{
+    margin-top: 10px;
+}
+
+.change21 p{
+    padding-top: 5%; 
+    margin-bottom: 5%;
+}
+.buttonl{
+    height: 40px;
+}
+.img22{
+    width: 50%; 
+    border: 2px solid red;
+    padding-left: 25%;
+}
 
