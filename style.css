@@ -46,7 +46,7 @@ body {
     flex-direction: row;
     justify-content: center;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 20px;
     background-color: black;
     color: white;
     margin-left: 43%;
@@ -98,7 +98,8 @@ body {
     height: 250px;
     width: 50%;
     border: 2px solid red;
-    padding-left: 48px;
+    padding-left: 28px;
+    
 }
 .change21 h2{
     margin-top: 10px;
@@ -107,6 +108,8 @@ body {
 .change21 p{
     padding-top: 5%; 
     margin-bottom: 5%;
+    margin-left: 20px;
+    align-items: flex-start;
 }
 .buttonl{
     height: 40px;
@@ -159,14 +162,14 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    text-align: end; 
+    /* text-align: end;  */
 }
 
 .coding41{
     height: 250px;
     width: 50%;
     border: 2px solid red;
-    padding-left: 48px;
+     padding-left: 28px; /* 48 */
 }
 
 .coding41 h2{
@@ -176,6 +179,7 @@ body {
 .coding41 p{
     padding-top: 5%; 
     margin-bottom: 5%;
+    
 }
 .button4{
     height: 40px;
@@ -185,6 +189,8 @@ body {
     width: 50%; 
     border: 2px solid red;
     padding-left: 25%;
+    /* fgfg */
+    text-align: end;
 } 
 
 /* third section start  */
@@ -296,3 +302,74 @@ body {
 
 /* fourth section end */
 
+/* fifth section start */
+
+.lastone{
+    margin-top: 10px;
+}
+
+.lastone { 
+    height: 460px;
+    width: 1144px;
+    border: 2px solid red;
+    background-color: rgba(0,0,0,0.5);
+    background-image: url(./images/handshake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay; 
+    border-radius: 15px; 
+    margin-left: 10%;
+    margin-top: 5%; 
+}
+.lastone h2,p{
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    /* margin-top: 50px; */
+    
+}
+
+.lastone h2{
+    padding-top: 20%;
+    /* margin-top: 20px; */
+    /* margin-top: -220px; */
+    color: white;
+}
+
+.lastone p{
+    color: white;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    max-height: 20px;
+    
+}
+.boxin{
+    height: 30px;
+     width: 250px; 
+     border-radius: 5px;
+     
+}
+.sub{
+    height: 30px;
+     width: 70px; 
+     border-radius: 5px;
+
+}
+
+.end{
+    margin-top: 20%;
+    height: 160px;
+    width: 1144px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+.textp p{
+    color:black
+}
