@@ -10,12 +10,15 @@ body {
     font-family: "Azeret Mono", monospace;
 }
 
+/* 1st image section start */
+
 .banner-container {
     height: 652px;
     /* border: 2px solid rgb(46, 177, 173); */
     margin-top: 50px;
     background-image: url("/images/Hero-bg.png");
 }
+
 
 .firstimg{
     display: flex;
@@ -56,7 +59,7 @@ body {
     font-size: 22px;
 }
 
-
+/* 1st image section done  */
 
 
 /* why web development part start here  */
