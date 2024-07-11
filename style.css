@@ -157,9 +157,9 @@ body {
 
 .fourthsec{
     display: flex;
-    /* flex-direction: row;
+    flex-direction: row;
     justify-content: center;
-    text-align: end; */
+    text-align: end; 
 }
 
 .coding41{
@@ -204,7 +204,7 @@ body {
 
 .text h1{
     margin-top: 10px;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
 }
 
 .text p{
@@ -214,4 +214,85 @@ body {
     padding-left: 10%;
 }
 
-/* fourth section end  */
+/* third section end  */
+
+.target{
+    height: 462px;
+    width: 1140px;
+    border: 2px solid red;
+    margin-left: 148px;
+    margin-top: 5%;
+}
+
+.target h1, p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    /* margin-top: 10px; */
+    padding: 2%;
+}
+.content{
+     display: flex; 
+    flex-direction: row;
+    justify-content: space-between; */
+
+    /* text-align: center; */
+
+}
+
+.html{
+    height: 284px;
+    width: 350px;
+    border: 2px solid red;
+    flex-direction: row;  
+    align-items: flex-start;
+    padding: 2%;
+}
+
+.html p{
+    text-align: start;
+    margin-bottom: 10%;
+}
+
+.html h2{
+    margin-bottom: 10px;
+}
+
+.css{
+    height: 284px;
+    width: 350px;
+    border: 2px solid red;
+    padding: 2%;
+
+}
+
+.css p{
+    text-align: start;
+    margin-bottom: 10%;
+}
+
+.css h2{
+    margin-bottom: 10px;
+}
+
+.js{
+    height: 284px;
+    /* width: 219px; */
+    width: 350px;
+    border: 2px solid red;
+    padding: 2%;
+
+}
+
+.js p{
+    text-align: start;
+    margin-bottom: 10%;
+}
+
+.js h2{
+    margin-bottom: 10px;
+}
+
+/* fourth section end */
+
