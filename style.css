@@ -44,6 +44,8 @@ body {
     margin-top: 30px;
 }
 
+/* contact button start */
+
 .contact{
     display: flex;
     flex-direction: row;
@@ -227,6 +229,7 @@ body {
 }
 
 /* third section end  */
+/* fourth section start */
 
 .target{
     height: 462px;
